@@ -1,3 +1,4 @@
-export { default as Input} from './input/input';
-export { default as Events } from './events/events';
-export { default as CustomModal } from './modal/modal';
+export { default as TicTacToeBoard} from './TicTacToeBoard/index';
+export { default as TicTacToeGame } from './TicTacToeGame/index';
+export { default as TicTacToeSquare } from './TicTacToeSquare/index';
+export { default as TicTacToeStartScreen } from './TicTacToeStartScreen/index';
